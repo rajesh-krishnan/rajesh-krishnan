@@ -2,7 +2,17 @@
 
 Welcome to my GitHub profile page.
 
-Here are the websites to some of the projects I have made available on GitHub:
+## Publications and Patents
+See on [Google Scholar](https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate)
+
+## Open-souce Software Projects
+
+### Projects I have contributed to
+
+ * [gaps-closure](https://gaps-closure.github.io)
+ * [sediment-lfproject](https://sediment-lfproject.github.io)
+
+### Projects I created
 
  * [deed](https://rajesh-krishnan.github.io/deed)
  * [syncsmart](https://rajesh-krishnan.github.io/syncsmart)
