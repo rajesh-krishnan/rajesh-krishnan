@@ -5,7 +5,7 @@ Namaste (नमस्ते). Welcome to my webpages on GitHub.
 ### Publications and Patents
 See on [Google Scholar](https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate)
 
-### Open-souce Software Projects
+### Open-souce Software
 
 Projects I have contributed to:
 
