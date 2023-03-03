@@ -12,11 +12,11 @@ Projects I have created:
  
 ## Patents and Publications
 
-For a list of my patents and publications in journals, conferences, and magazines, see: 
+For a list of my patents (5), peer-reviewed publications, and technical reports, see:
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate)
 
 ## Standards My Work Influenced
 
-While working on the DARPA XG Program, I wrote the original text for significant portions of the spectrum policy language sections of this [2005 report](https://apps.dtic.mil/sti/pdfs/ADA437096.pdf). While the IEEE P1900.5.1 standard does not credit this report, it is more unfortunate that the hard lessons I learned from the earlier work did not make it into the standard. In my retrospective opinion, a better design would accord a constraints DSL more prominence within the language, while judiciously including modal logics (obligations, prohibitions, preferences) and description logics minimally as needed.
+While working on the DARPA XG Program, I wrote the original text for significant portions of the spectrum policy language sections of this [2005 report](https://apps.dtic.mil/sti/pdfs/ADA437096.pdf). While the IEEE P1900.5.1 standard does not credit this report, it is more unfortunate that the hard lessons I learned from the earlier work did not make it into the standard. In my retrospective opinion, a better design would accord a constraints DSL more prominence within the language, while judiciously including modal logics (obligations, prohibitions, preferences) and description logics as needed.
 
 While working on the DARPA DTN program, I had [participated](https://mailarchive.ietf.org/arch/msg/dtn-interest/KQFRTBWkMga5pRTXuP3tbDzu-n8/) in the IRTF DTNRG.
