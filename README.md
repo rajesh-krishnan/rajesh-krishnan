@@ -17,13 +17,9 @@ For a list of my patents and publications in journals, conferences, and magazine
 
 ##  Standards I Influenced in Minor Ways 
 
-While working on the DARPA XG Program, I wrote significant portions of the spectrum policy language sections of this [2005 report](https://apps.dtic.mil/sti/pdfs/ADA437096.pdf). You can compare this report with the IEEE P1900.5.1 standard and draw your own 
-conclusions about the uncredited history of this work prior to IEEE DySPAN-SC. Unfortunately some hard lessons I had learned in XG 
-do not seem to have made it to the standard. In my retrospective opinion, a better design would accord a constraints DSL (e.g., MiniZinc) more 
-prominence within the language, while judiciously including modal logics (obligations, prohibitions, preferences) and description 
-logics to the extent necessary. We had it backwards in the XG policy language, and overly focused on DL/ontologies.
+While working on the DARPA XG Program, I wrote the original text for significant portions of the spectrum policy language sections of this [2005 report](https://apps.dtic.mil/sti/pdfs/ADA437096.pdf). While the IEEE P1900.5.1 standard does not credit this report, it is not hard to see its influence. It is more unfortunate that the hard lessons I learned in XG did not make it into the standard. In my retrospective opinion, a better design would accord a constraints DSL (e.g., MiniZinc) more prominence within the language, while judiciously including modal logics (obligations, prohibitions, preferences) and description logics as needed. We had it backwards in the XG policy language, and overly focused on DL/ontologies.
 
-While working on the DARPA DTN program, I had [participated](https://mailarchive.ietf.org/arch/msg/dtn-interest/KQFRTBWkMga5pRTXuP3tbDzu-n8/) in the IRTF DTNRG in small ways. 
+While working on the DARPA DTN program, I had [participated](https://mailarchive.ietf.org/arch/msg/dtn-interest/KQFRTBWkMga5pRTXuP3tbDzu-n8/) in the IRTF DTNRG in small ways.
 
 
 
