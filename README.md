@@ -15,7 +15,7 @@ Projects I have created:
 For a list of my patents and publications in journals, conferences, and magazines, see: 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate)
 
-##  Standards I had some inputs into 
+##  Standards I Influenced in Minor Ways 
 
 While working on the DARPA XG Program, I wrote significant portions of the spectrum policy language sections of this [2005 report](https://apps.dtic.mil/sti/pdfs/ADA437096.pdf). You can compare this report with the IEEE P1900.5.1 standard and draw your own 
 conclusions about the uncredited history of this work prior to IEEE DySPAN-SC. Unfortunately some hard lessons I had learned in XG 
