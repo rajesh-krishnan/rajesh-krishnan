@@ -5,14 +5,16 @@ For a list of my patents, publications, and reports, see:
 
 ## Open-source Software
 
-Code mostly written by me:
+Own projects:
+
  * [hamsa](https://rajesh-krishnan.github.io/deed): Hash Aided Machine-Intelligence Sans Accelerators
  * [deed](https://rajesh-krishnan.github.io/deed): Decision Evaluation in Encrypted Domain 
  * [syncsmart](https://rajesh-krishnan.github.io/syncsmart): Data Set Reconciliation 
  * [cambda](https://rajesh-krishnan.github.io/cambda): An Implementation of the Kanerva Memory 
  * [pys](https://rajesh-krishnan.github.io/pys): Patanjala Yogasutrani
 
-Code contributed to:
+Contributions to other projects:
+
  * [gaps-closure](https://gaps-closure.github.io): Annotation-Driven Program Analysis and Partitioning
  * [sediment-lfproject](https://sediment-lfproject.github.io): Security for IoT Devices
  
