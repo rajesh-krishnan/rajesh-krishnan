@@ -1,20 +1,21 @@
+## Patents and Publications
+
+For a list of my patents, publications, and reports, see:
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate)
+
 ## Open-source Software
 
-Projects I have contributed to:
- * [gaps-closure](https://gaps-closure.github.io): Annotation-Driven Program Analysis and Partitioning
- * [sediment-lfproject](https://sediment-lfproject.github.io): Security for IoT Devices
-
-Projects I have created:
+Code mostly written by me:
+ * [hamsa](https://rajesh-krishnan.github.io/deed): Hash Aided Machine-Intelligence Sans Accelerators
  * [deed](https://rajesh-krishnan.github.io/deed): Decision Evaluation in Encrypted Domain 
  * [syncsmart](https://rajesh-krishnan.github.io/syncsmart): Data Set Reconciliation 
  * [cambda](https://rajesh-krishnan.github.io/cambda): An Implementation of the Kanerva Memory 
  * [pys](https://rajesh-krishnan.github.io/pys): Patanjala Yogasutrani
+
+Code contributed to:
+ * [gaps-closure](https://gaps-closure.github.io): Annotation-Driven Program Analysis and Partitioning
+ * [sediment-lfproject](https://sediment-lfproject.github.io): Security for IoT Devices
  
-## Patents and Publications
-
-For a list of my patents (5), peer-reviewed publications, and technical reports, see:
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate)
-
 ## Influence on Standards
 
 While working on the DARPA XG Program, I wrote the original text for the spectrum policy language portions of this [report](https://apps.dtic.mil/sti/pdfs/ADA437096.pdf), which has a clear, albeit uncredited, influence on the IEEE P1900.5.1 standard. In my retrospective opinion, a better design would accord a constraints DSL more prominence within the language, while including modal and description logics more judiciously.
