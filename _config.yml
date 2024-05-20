@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
-permalink: pretty
 plugins:
   - jekyll-remote-theme 
 
 title: Rajesh Krishnan
 description: Namaste (नमस्ते). Welcome to my web site. I am a retired computer
-scientist who lives in Fort Valley, Virginia, USA. For a list of my patents and technical publications, see: <a href="https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate">[Google Scholar]</a>
+scientist who lives in Fort Valley, Virginia, USA. For a list of my patents and technical publications, see [Google Scholar]("https://scholar.google.com/citations?hl=en&user=aMfW5dMAAAAJ&pagesize=100&sortby=pubdate").
 
+permalink: pretty
