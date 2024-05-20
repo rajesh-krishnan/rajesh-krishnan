@@ -1,17 +1,3 @@
----
-layout: page
----
-
-## Blog
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
-      <p>{{ post.description }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
 ## Patents and Publications
 
 For a list of my patents, publications, and reports, see:
