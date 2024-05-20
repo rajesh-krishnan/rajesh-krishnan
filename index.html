@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Blog Posts"
+title: "Blog"
 ---
 
+<h1>Blog</h1>
 {% for category in site.categories %}
   <h2> {{ category | first }}</h2>
   <div id={{ category | first }} style="overflow-y:scroll; height:100px;">
