@@ -6,7 +6,7 @@ layout: default
 
 {% for category in site.categories %}
   <h2> {{ category | first }}</h2>
-  <div id={{ category | first }} style="overflow:scroll; height:50px;">
+  <div id={{ category | first }} style="overflow-y:scroll; height:50px;">
     {% for post in category.last %}
       {{ post.date | date: "%B %-d, %Y" }} &nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ post.url }}">{{ post.title }}</a><p>
     {% endfor %}
