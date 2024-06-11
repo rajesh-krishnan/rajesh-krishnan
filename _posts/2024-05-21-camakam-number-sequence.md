@@ -8,3 +8,7 @@ tags: ["hinduism", "sanatana", "dharma", "rudram", "camakam", "rigveda", "number
 
 ## Backstory
 
+
+## Construction
+
+![construction](/assets/2024_05_21_camakam/construction.png)]
